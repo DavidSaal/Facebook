@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CodeValue/static/css/main.9ef55674.chunk.css",
+    "main.js": "/CodeValue/static/js/main.f564f929.chunk.js",
+    "main.js.map": "/CodeValue/static/js/main.f564f929.chunk.js.map",
+    "runtime-main.js": "/CodeValue/static/js/runtime-main.1b26018e.js",
+    "runtime-main.js.map": "/CodeValue/static/js/runtime-main.1b26018e.js.map",
+    "static/css/2.d9edcba5.chunk.css": "/CodeValue/static/css/2.d9edcba5.chunk.css",
+    "static/js/2.0b8782d4.chunk.js": "/CodeValue/static/js/2.0b8782d4.chunk.js",
+    "static/js/2.0b8782d4.chunk.js.map": "/CodeValue/static/js/2.0b8782d4.chunk.js.map",
+    "index.html": "/CodeValue/index.html",
+    "static/css/2.d9edcba5.chunk.css.map": "/CodeValue/static/css/2.d9edcba5.chunk.css.map",
+    "static/css/main.9ef55674.chunk.css.map": "/CodeValue/static/css/main.9ef55674.chunk.css.map",
+    "static/js/2.0b8782d4.chunk.js.LICENSE.txt": "/CodeValue/static/js/2.0b8782d4.chunk.js.LICENSE.txt",
+    "static/media/CodeValue.1364d88e.png": "/CodeValue/static/media/CodeValue.1364d88e.png",
+    "static/media/Home.css": "/CodeValue/static/media/background.bcb52716.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b26018e.js",
+    "static/css/2.d9edcba5.chunk.css",
+    "static/js/2.0b8782d4.chunk.js",
+    "static/css/main.9ef55674.chunk.css",
+    "static/js/main.f564f929.chunk.js"
+  ]
+}

@@ -1,0 +1,21 @@
+.card {
+  border: 1px solid #f3f3f3 !important;
+  -webkit-transition: 0.25s ease-in-out;
+  -o-transition: 0.25s ease-in-out;
+  transition: 0.25s ease-in-out;
+}
+.card a:active,
+.card a:focus {
+  border: 0;
+  outline: none;
+}
+.card:hover {
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+  -webkit-transform: translateY(-5px);
+  -ms-transform: translateY(-5px);
+  transform: translateY(-5px);
+}
+.fs-7 {
+  font-size: 0.9rem;
+}
